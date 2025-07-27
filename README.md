@@ -2,7 +2,7 @@
 <h3 align="center"> Enginer System| Fullstack | Passionate about new technologies</h3>
  
 <h2>💫 About Me: </h2>
-I am Jose Balcázar, a Systems Engineering student from Peru, interested in web development, software development, and data analysis.
+I am Jose Balcazar, a Systems Engineering student from Peru, interested in web development, software development, and data analysis.
 <ul>
   <li>💻 I have worked on web development projects and desktop applications.</li>
   <li>🐍 I also explore automation and data analysis with Python.</li>
@@ -23,17 +23,17 @@ Thanks for visiting my profile. Always ready to learn and build! ⚡
 </p>
 <h2>🚀 Tech Stack</h2>
 
-<!-- Programming Languages -->
 <h3>🧑‍💻 Programming Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!-- Frameworks & Libraries -->
 <h3>🧩 Frameworks & Libraries</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -45,7 +45,6 @@ Thanks for visiting my profile. Always ready to learn and build! ⚡
   <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white"/>
 </p>
 
-<!-- Databases -->
 <h3>🗄️ Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -54,7 +53,6 @@ Thanks for visiting my profile. Always ready to learn and build! ⚡
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-<!-- Deployment & DevOps -->
 <h3>☁️ Deployment & DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -65,7 +63,6 @@ Thanks for visiting my profile. Always ready to learn and build! ⚡
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-<!-- Project Management -->
 <h3>📋 Project Management</h3>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -73,7 +70,6 @@ Thanks for visiting my profile. Always ready to learn and build! ⚡
   <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<!-- Security -->
 <h3>🔐 Authentication & Security</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
@@ -81,20 +77,33 @@ Thanks for visiting my profile. Always ready to learn and build! ⚡
   <img src="https://img.shields.io/badge/BCrypt-FAFAFA?style=for-the-badge&logoColor=black"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joseBC377&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joseBC377&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joseBC377&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>📊 GitHub Stats:</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joseBC377&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=joseBC377&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseBC377&theme=merko&hide_border=false" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joseBC377&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseBC377&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=joseBC377&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=joseBC377&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+<h3>🔝 Top Contributed Repositories</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=joseBC377&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+
+<hr/>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=joseBC377&icon=0&color=0" alt="Profile Views"/>
+</a>
+
 
