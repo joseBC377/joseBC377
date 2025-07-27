@@ -2,15 +2,24 @@
 <h3 align="center"> Enginer System| Fullstack | Passionate about new technologies</h3>
  
 <h2>💫 About Me: </h2>
-I am Jose Balcazar, a Systems Engineering student from Peru, interested in web development, software development, and data analysis.
-<ul>
-  <li>💻 I have worked on web development projects and desktop applications.</li>
-  <li>🐍 I also explore automation and data analysis with Python.</li>
-  <li>🧠 Knowledge of logic, data structures, and problem-solving.</li>
-  <li>🔧 I work with technologies such as Java, Spring Boot, JavaScript, MySQL...</li>
-  <li>🤝 I stand out for being adaptable, curious, and determined, and I work well in teams.</li>
-</ul>
-Thanks for visiting my profile. Always ready to learn and build! ⚡
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <p>I am Jose Balcazar, a Systems Engineering student from Peru, interested in web development, software development, and data analysis.</p>
+      <ul>
+        <li>💻 I have worked on web development projects and desktop applications.</li>
+        <li>🐍 I also explore automation and data analysis with Python.</li>
+        <li>🧠 Knowledge of logic, data structures, and problem-solving.</li>
+        <li>🔧 I work with technologies such as Java, Spring Boot, JavaScript, MySQL...</li>
+        <li>🤝 I stand out for being adaptable, curious, and determined, and I work well in teams.</li>
+      </ul>
+      <p>Thanks for visiting my profile. Always ready to learn and build! ⚡</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNxaDN1d2p3eXJnOHFsczRoNGg0cjRtbG9sOTIwaWExMnV4c2pzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f5E38t0xshEXzUG8gR/giphy.gif" width="250px"/>
+    </td>
+  </tr>
+</table>
 <h2>🌐 Socials: </h2>
 <p align="start">
   <a href="https://www.linkedin.com/in/jose-jesus-balcazar-choqqu" target="_blank">
