@@ -22,7 +22,7 @@
 </table>
 <h2>🌐 Socials: </h2>
 <p align="start">
-  <a href="https://www.linkedin.com/in/jose-jesus-balcazar-choqqu" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-jesus-balcazar-choqque" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jbalcazar377@gmail.com">
